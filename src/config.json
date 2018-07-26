@@ -1,0 +1,15 @@
+{
+    "service": {
+        "configure":"http://test-config.vipkid.com.cn"
+    },
+    "params": [{
+        "appName": "invoker",
+        "token": "e0dbec9c03d22c51ed4ec8c03aaa3ea8",
+        "confName": "realtime.conf"
+    },{
+        "appName": "test",
+        "token": "d779a11b61921c50749156ed9d831f16",
+        "confName": "realtime.conf"
+    }]
+    
+}
